@@ -1,4 +1,3 @@
-# pyin-vs-yin-pitch-detection
 # Pitch Detection using YIN and pYIN Algorithms
 
 ##  Overview
