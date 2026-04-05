@@ -113,7 +113,7 @@ The program generates:
 
 ##  Status
 
-✔ Completed and tested successfully
-✔ Results match expected research outcomes
+ Completed and tested successfully
+ Results match expected research outcomes
 
 ---
